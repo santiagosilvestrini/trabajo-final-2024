@@ -51,7 +51,7 @@
 - [ ] Astegiano, Franco
 - [ ] Ateca, Joaquín
 - [ ] Cicconi, Carlos
-- [ ] Costa, Victorio
+- [x] Costa, Victorio
 - [ ] Grijalba, Federico
 - [ ] Lanese, Marco
 - [ ] Richard, Federico
