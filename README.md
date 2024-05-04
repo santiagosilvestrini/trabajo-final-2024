@@ -8,14 +8,14 @@
 
 ### PARTE 1
 
-- [ ] Forkear este repositorio (rama `desarrollo`)
-- [ ] Clonar el Repo forkeado (propio) en sus computadoras personales
+- [x] Forkear este repositorio (rama `desarrollo`)
+- [x] Clonar el Repo forkeado (propio) en sus computadoras personales
 
 ### PARTE 2
 
-- [ ] Abrir el [repositorio original](https://github.com/santiagosilvestrini/trabajo-final-2024) en Github
-- [ ] Navegar a la sección de `Issues`
-- [ ] Crear un nuevo Issue, el título debe ser su nombre completo seguido de `- PARTE 2` (ejemplo: `Santiago Silvestrini - PARTE 2`)
+- [x] Abrir el [repositorio original](https://github.com/santiagosilvestrini/trabajo-final-2024) en Github
+- [x] Navegar a la sección de `Issues`
+- [x] Crear un nuevo Issue, el título debe ser su nombre completo seguido de `- PARTE 2` (ejemplo: `Santiago Silvestrini - PARTE 2`)
 - [ ] Sobre su *repositorio local*, crear una nueva rama a partir de la rama `desarrollo`, respetando la siguiente nomenclatura: `nombre-apellido-parte2`
 - [ ] Bajo la rama recientemente creada, crear un nuevo archivo de tipo *Markdown*, utilizando su apellido como nombre (ej: `silvestrini.md`). Dentro del archivo incluir una línea con su nombre y apellido completo
 - [ ] Realizar los pasos necesarios para agregar el archivo a sus repositorios locales, incluir en el mensaje de commit una referencia al *Issue* creado para esta parte del trabajo práctico
