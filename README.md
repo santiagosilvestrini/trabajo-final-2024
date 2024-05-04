@@ -16,21 +16,21 @@
 - [x] Abrir el [repositorio original](https://github.com/santiagosilvestrini/trabajo-final-2024) en Github
 - [x] Navegar a la sección de `Issues`
 - [x] Crear un nuevo Issue, el título debe ser su nombre completo seguido de `- PARTE 2` (ejemplo: `Santiago Silvestrini - PARTE 2`)
-- [ ] Sobre su *repositorio local*, crear una nueva rama a partir de la rama `desarrollo`, respetando la siguiente nomenclatura: `nombre-apellido-parte2`
-- [ ] Bajo la rama recientemente creada, crear un nuevo archivo de tipo *Markdown*, utilizando su apellido como nombre (ej: `silvestrini.md`). Dentro del archivo incluir una línea con su nombre y apellido completo
-- [ ] Realizar los pasos necesarios para agregar el archivo a sus repositorios locales, incluir en el mensaje de commit una referencia al *Issue* creado para esta parte del trabajo práctico
-- [ ] Publicar la rama recientemente creada por ustedes en sus repositorios remotos
-- [ ] Abrir un `PULL REQUEST` para integrar sus cambios en la rama `desarrollo` del repositorio original (upstream)
+- [x] Sobre su *repositorio local*, crear una nueva rama a partir de la rama `desarrollo`, respetando la siguiente nomenclatura: `nombre-apellido-parte2`
+- [x] Bajo la rama recientemente creada, crear un nuevo archivo de tipo *Markdown*, utilizando su apellido como nombre (ej: `silvestrini.md`). Dentro del archivo incluir una línea con su nombre y apellido completo
+- [x] Realizar los pasos necesarios para agregar el archivo a sus repositorios locales, incluir en el mensaje de commit una referencia al *Issue* creado para esta parte del trabajo práctico
+- [x] Publicar la rama recientemente creada por ustedes en sus repositorios remotos
+- [x] Abrir un `PULL REQUEST` para integrar sus cambios en la rama `desarrollo` del repositorio original (upstream)
 
 ### PARTE 3
-- [ ] Abrir el [repositorio original](https://github.com/santiagosilvestrini/trabajo-final-2024) en Github
-- [ ] Navegar a la sección de `Issues`
-- [ ] Crear un nuevo Issue, el título debe ser su nombre completo seguido de `- PARTE 3` (ejemplo: `Santiago Silvestrini - PARTE 3`)
-- [ ] En sus repositorios locales crear una nueva rama a partir de la rama `desarrollo`, esta vez de nombre: `nombre-apellido-parte3`
-- [ ] Modificar el archivo `README.md`, tildando su nombre en el mismo (agregar una X entre los corchetes)
-- [ ] Realizar los pasos necesarios para publicar los cambios en sus repositorios locales, incluir en el mensaje de commit una referencia al *Issue* creado para esta parte del trabajo práctico
-- [ ] Publicar la rama recientemente creada por ustedes en sus repositorios remotos
-- [ ] Abrir un `PULL REQUEST` para integrar sus cambios en la rama `desarrollo` del repositorio original (upstream)
+- [x] Abrir el [repositorio original](https://github.com/santiagosilvestrini/trabajo-final-2024) en Github
+- [x] Navegar a la sección de `Issues`
+- [x] Crear un nuevo Issue, el título debe ser su nombre completo seguido de `- PARTE 3` (ejemplo: `Santiago Silvestrini - PARTE 3`)
+- [x] En sus repositorios locales crear una nueva rama a partir de la rama `desarrollo`, esta vez de nombre: `nombre-apellido-parte3`
+- [x] Modificar el archivo `README.md`, tildando su nombre en el mismo (agregar una X entre los corchetes)
+- [x] Realizar los pasos necesarios para publicar los cambios en sus repositorios locales, incluir en el mensaje de commit una referencia al *Issue* creado para esta parte del trabajo práctico
+- [x] Publicar la rama recientemente creada por ustedes en sus repositorios remotos
+- [x] Abrir un `PULL REQUEST` para integrar sus cambios en la rama `desarrollo` del repositorio original (upstream)
 
 > IMPORTANTE: Para que el TP se considere aprobado sus cambios deberán quedar impactados en la rama `main` del repositorio original. La rama `desarrollo` se fusionará con `main` el **Sábado 11 de Mayo de 2024 a las 23:59hs**, por lo que sus `Pull Request` deberán haber sido aprobados antes de esa fecha.
 
@@ -62,5 +62,5 @@
 - [ ] Seward, Gerard
 - [ ] Sincosky, Noelia
 - [ ] Szekieta, Paola
-- [ ] Saldaña, Gustavo
+- [x] Saldaña, Gustavo
 - [ ] Fierro, Abel
