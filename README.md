@@ -61,6 +61,6 @@
 - [ ] Scarafía, Franco
 - [ ] Seward, Gerard
 - [ ] Sincosky, Noelia
-- [ ] Szekieta, Paola
+- [X] Szekieta, Paola
 - [ ] Saldaña, Gustavo
 - [ ] Fierro, Abel
