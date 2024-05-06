@@ -50,7 +50,7 @@
 - [ ] Vittone, María Ángeles
 - [ ] Astegiano, Franco
 - [ ] Ateca, Joaquín
-- [ ] Cicconi, Carlos
+- [x] Cicconi, Carlos
 - [ ] Costa, Victorio
 - [ ] Grijalba, Federico
 - [ ] Lanese, Marco
