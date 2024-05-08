@@ -55,7 +55,7 @@
 - [ ] Grijalba, Federico
 - [ ] Lanese, Marco
 - [ ] Richard, Federico
-- [ ] Ruiz, Lautaro
+- [x] Ruiz, Lautaro
 - [ ] Santesteban, Natalia Melina
 - [ ] Santiago, Florencia
 - [ ] Scarafía, Franco
