@@ -43,7 +43,7 @@
 - [ ] López López, Mauricio Alonso
 - [ ] Madrid Herrera, Rodrigo
 - [ ] Marquez Rojas, Sebastian
-- [ ] Mattio, Victor Hugo
+- [x] Mattio, Victor Hugo
 - [ ] Moreno, Felipe
 - [ ] Prieto, Lucila
 - [ ] Svaikauskas, Victoria
