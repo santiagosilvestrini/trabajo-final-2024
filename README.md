@@ -54,7 +54,7 @@
 - [ ] Costa, Victorio
 - [ ] Grijalba, Federico
 - [ ] Lanese, Marco
-- [ ] Richard, Federico
+- [x] Richard, Federico
 - [ ] Ruiz, Lautaro
 - [ ] Santesteban, Natalia Melina
 - [ ] Santiago, Florencia
