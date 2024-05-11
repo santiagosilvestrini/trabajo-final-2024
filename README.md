@@ -58,7 +58,7 @@
 - [ ] Ruiz, Lautaro
 - [ ] Santesteban, Natalia Melina
 - [ ] Santiago, Florencia
-- [ ] Scarafía, Franco
+- [x] Scarafía, Franco
 - [ ] Seward, Gerard
 - [ ] Sincosky, Noelia
 - [ ] Szekieta, Paola
