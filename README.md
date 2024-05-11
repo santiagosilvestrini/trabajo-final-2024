@@ -46,7 +46,7 @@
 - [ ] Mattio, Victor Hugo
 - [ ] Moreno, Felipe
 - [ ] Prieto, Lucila
-- [ ] Svaikauskas, Victoria
+- [X] Svaikauskas, Victoria
 - [ ] Vittone, María Ángeles
 - [ ] Astegiano, Franco
 - [ ] Ateca, Joaquín
