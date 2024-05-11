@@ -52,15 +52,17 @@
 - [ ] Ateca, Joaquín
 - [x] Cicconi, Carlos
 - [ ] Costa, Victorio
+- [ ] Cicconi, Carlos
+- [x] Costa, Victorio
 - [ ] Grijalba, Federico
 - [ ] Lanese, Marco
 - [ ] Richard, Federico
 - [ ] Ruiz, Lautaro
-- [ ] Santesteban, Natalia Melina
+- [x] Santesteban, Natalia Melina
 - [ ] Santiago, Florencia
-- [ ] Scarafía, Franco
+- [x] Scarafía, Franco
 - [ ] Seward, Gerard
 - [ ] Sincosky, Noelia
-- [ ] Szekieta, Paola
+- [X] Szekieta, Paola
 - [ ] Saldaña, Gustavo
 - [ ] Fierro, Abel
