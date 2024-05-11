@@ -35,7 +35,7 @@
 > IMPORTANTE: Para que el TP se considere aprobado sus cambios deberán quedar impactados en la rama `main` del repositorio original. La rama `desarrollo` se fusionará con `main` el **Sábado 11 de Mayo de 2024 a las 23:59hs**, por lo que sus `Pull Request` deberán haber sido aprobados antes de esa fecha.
 
 
-- [ ] Santiago Silvestrini
+- [x] Santiago Silvestrini
 - [ ] Brandellero Izurieta, Ezequiel
 - [ ] Carrizo, Federico Ezequiel
 - [ ] Ferreyra, Nicolás Marino
@@ -50,6 +50,8 @@
 - [ ] Vittone, María Ángeles
 - [ ] Astegiano, Franco
 - [ ] Ateca, Joaquín
+- [x] Cicconi, Carlos
+- [ ] Costa, Victorio
 - [ ] Cicconi, Carlos
 - [x] Costa, Victorio
 - [ ] Grijalba, Federico
