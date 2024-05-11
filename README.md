@@ -43,24 +43,26 @@
 - [ ] López López, Mauricio Alonso
 - [ ] Madrid Herrera, Rodrigo
 - [ ] Marquez Rojas, Sebastian
-- [ ] Mattio, Victor Hugo
+- [x] Mattio, Victor Hugo
 - [ ] Moreno, Felipe
 - [ ] Prieto, Lucila
-- [ ] Svaikauskas, Victoria
+- [X] Svaikauskas, Victoria
 - [ ] Vittone, María Ángeles
 - [ ] Astegiano, Franco
 - [ ] Ateca, Joaquín
-- [ ] Cicconi, Carlos
+- [x] Cicconi, Carlos
 - [ ] Costa, Victorio
+- [ ] Cicconi, Carlos
+- [x] Costa, Victorio
 - [ ] Grijalba, Federico
 - [ ] Lanese, Marco
 - [ ] Richard, Federico
 - [x] Ruiz, Lautaro
-- [ ] Santesteban, Natalia Melina
+- [x] Santesteban, Natalia Melina
 - [ ] Santiago, Florencia
-- [ ] Scarafía, Franco
+- [x] Scarafía, Franco
 - [ ] Seward, Gerard
 - [ ] Sincosky, Noelia
-- [ ] Szekieta, Paola
+- [X] Szekieta, Paola
 - [ ] Saldaña, Gustavo
 - [ ] Fierro, Abel
