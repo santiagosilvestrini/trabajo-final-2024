@@ -60,7 +60,7 @@
 - [ ] Santiago, Florencia
 - [x] Scarafía, Franco
 - [ ] Seward, Gerard
-- [ ] Sincosky, Noelia
+- [X] Sincosky, Noelia
 - [X] Szekieta, Paola
 - [x] Saldaña, Gustavo
 - [ ] Fierro, Abel
