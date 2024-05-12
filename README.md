@@ -16,7 +16,7 @@
 - [ ] Abrir el [repositorio original](https://github.com/santiagosilvestrini/trabajo-final-2024) en Github
 - [ ] Navegar a la sección de `Issues`
 - [ ] Crear un nuevo Issue, el título debe ser su nombre completo seguido de `- PARTE 2` (ejemplo: `Santiago Silvestrini - PARTE 2`)
-- [ ] Sobre su *repositorio local*, crear una nueva rama a partir de la rama `desarrollo`, respetando la siguiente nomenclatura: `Gustavo-Saldania-parte2`
+- [ ] Sobre su *repositorio local*, crear una nueva rama a partir de la rama `desarrollo`, respetando la siguiente nomenclatura: `santiago-silvestrini-parte2`
 - [ ] Bajo la rama recientemente creada, crear un nuevo archivo de tipo *Markdown*, utilizando su apellido como nombre (ej: `silvestrini.md`). Dentro del archivo incluir una línea con su nombre y apellido completo
 - [ ] Realizar los pasos necesarios para agregar el archivo a sus repositorios locales, incluir en el mensaje de commit una referencia al *Issue* creado para esta parte del trabajo práctico
 - [ ] Publicar la rama recientemente creada por ustedes en sus repositorios remotos
@@ -25,7 +25,7 @@
 ### PARTE 3
 - [ ] Abrir el [repositorio original](https://github.com/santiagosilvestrini/trabajo-final-2024) en Github
 - [ ] Navegar a la sección de `Issues`
-- [ ] Crear un nuevo Issue, el título debe ser su nombre completo seguido de `- PARTE 3` (ejemplo: `Gustavo Saldaña - PARTE 3`)
+- [ ] Crear un nuevo Issue, el título debe ser su nombre completo seguido de `- PARTE 3` (ejemplo: `Santiago Silvestrini - PARTE 3`)
 - [ ] En sus repositorios locales crear una nueva rama a partir de la rama `desarrollo`, esta vez de nombre: `nombre-apellido-parte3`
 - [ ] Modificar el archivo `README.md`, tildando su nombre en el mismo (agregar una X entre los corchetes)
 - [ ] Realizar los pasos necesarios para publicar los cambios en sus repositorios locales, incluir en el mensaje de commit una referencia al *Issue* creado para esta parte del trabajo práctico
@@ -43,24 +43,27 @@
 - [ ] López López, Mauricio Alonso
 - [ ] Madrid Herrera, Rodrigo
 - [ ] Marquez Rojas, Sebastian
-- [ ] Mattio, Victor Hugo
+- [x] Mattio, Victor Hugo
 - [ ] Moreno, Felipe
 - [ ] Prieto, Lucila
-- [ ] Svaikauskas, Victoria
+- [X] Svaikauskas, Victoria
 - [ ] Vittone, María Ángeles
 - [ ] Astegiano, Franco
 - [ ] Ateca, Joaquín
-- [ ] Cicconi, Carlos
+- [x] Cicconi, Carlos
 - [ ] Costa, Victorio
+- [ ] Cicconi, Carlos
+- [x] Costa, Victorio
 - [ ] Grijalba, Federico
 - [ ] Lanese, Marco
-- [ ] Richard, Federico
-- [ ] Ruiz, Lautaro
-- [ ] Santesteban, Natalia Melina
+- [x] Richard, Federico
+- [x] Ruiz, Lautaro
+- [x] Santesteban, Natalia Melina
 - [ ] Santiago, Florencia
-- [ ] Scarafía, Franco
+- [x] Scarafía, Franco
 - [ ] Seward, Gerard
 - [ ] Sincosky, Noelia
+- [X] Szekieta, Paola
 - [ ] Szekieta, Paola
 - [x] Saldaña, Gustavo
 - [ ] Fierro, Abel
