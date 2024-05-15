@@ -45,7 +45,7 @@
 - [ ] Marquez Rojas, Sebastian
 - [x] Mattio, Victor Hugo
 - [ ] Moreno, Felipe
-- [ ] Prieto, Lucila
+- [x] Prieto, Lucila
 - [x] Svaikauskas, Victoria
 - [ ] Vittone, María Ángeles
 - [ ] Astegiano, Franco
