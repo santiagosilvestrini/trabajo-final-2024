@@ -57,7 +57,7 @@
 - [x] Richard, Federico
 - [x] Ruiz, Lautaro
 - [x] Santesteban, Natalia Melina
-- [ ] Santiago, Florencia
+- [X] Santiago, Florencia
 - [x] Scarafía, Franco
 - [ ] Seward, Gerard
 - [X] Sincosky, Noelia
