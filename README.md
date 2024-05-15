@@ -47,7 +47,7 @@
 - [ ] Moreno, Felipe
 - [ ] Prieto, Lucila
 - [x] Svaikauskas, Victoria
-- [ ] Vittone, María Ángeles
+- [x] Vittone, María Ángeles
 - [ ] Astegiano, Franco
 - [ ] Ateca, Joaquín
 - [x] Cicconi, Carlos
